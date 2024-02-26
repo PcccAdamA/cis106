@@ -20,3 +20,4 @@ Assignment: Lab 3
 
 ## Script Source code:
 [lab3](lab3-script1.sh)
+[Challenge](challenge_lab3.sh)
